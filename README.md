@@ -1,4 +1,4 @@
-# House Price Prediction Project
+#🏠 House Price Prediction Project
 
 The goal is to predict the price of a house using features such as:
 
@@ -10,7 +10,7 @@ The goal is to predict the price of a house using features such as:
 
 ---
 
-## Workflow
+##🔄 Workflow
 
 ```text
 House Dataset
@@ -30,13 +30,13 @@ Evaluation
 
 ---
 
-## Algorithms
+## ⚡ Algorithms
 
 - Linear Regression is used for predicting the house price
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Component | Technology |
 |---|---|
@@ -48,7 +48,7 @@ Evaluation
 
 ---
 
-## Steps to Run Project
+## 🚀 Steps to Run Project
 
 ```bash
 pip install -r requirements.txt
