@@ -1,4 +1,4 @@
-#🏠 House Price Prediction Project
+## 🏠 House Price Prediction Project
 
 The goal is to predict the price of a house using features such as:
 
@@ -10,7 +10,7 @@ The goal is to predict the price of a house using features such as:
 
 ---
 
-##🔄 Workflow
+## 🔄 Workflow
 
 ```text
 House Dataset
